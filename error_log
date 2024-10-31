@@ -1,0 +1,1 @@
+[24-Mar-2014 18:34:14] PHP Fatal error:  Call to undefined function  plugins_url() in /home4/zamartzc/public_html/wpdev/wp-content/plugins/QueryQuery/QueryQuery_admin.php on line 3
